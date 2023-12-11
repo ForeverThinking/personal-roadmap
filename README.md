@@ -7,7 +7,7 @@
 My personal roadmap for the technologies I aim to learn and continue practicing.
 
 ## ASP.NET Core and React
-- An MVC web app with Postgres database
+- An MVC web app with Postgres database - [A Basic CRUD App To Store Simple RPG Characters](https://github.com/ForeverThinking/character-card-collection)
 - A web API with Postgres database
 - Containerise web API with Docker (incl. database)
 - React front end

@@ -13,11 +13,11 @@ My personal roadmap for the technologies I aim to learn and continue practicing.
 - React front end
 - Containerise React with Docker
 
+## Authentication
+- MVC web app with Authentication and Authorisation
+- Web API with Authentication and Authorisation
+
 ## Azure
 - Static web app (React)
 - MVC hosted via App Service
 - Host .NET Core backend and React front end in containers
-
-## Authentication
-- MVC web app with Authentication and Authorisation
-- Web API with Authentication and Authorisation

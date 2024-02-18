@@ -10,7 +10,7 @@ My personal roadmap for the technologies I aim to learn and continue practicing.
 - An MVC web app with Postgres database - [A Basic CRUD App To Store Simple RPG Characters](https://github.com/ForeverThinking/character-card-collection)
 - A web API with Postgres database - [A Sci-Fi Themed API](https://github.com/ForeverThinking/sea-base-api)
 - Containerise web API with Docker (incl. database) - [A Simple Sailwind-inspired API in a container](https://github.com/ForeverThinking/sailwind-api)
-- React front end
+- React front end (using Typescript)
 - Containerise React with Docker
 
 ## Authentication
